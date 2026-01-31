@@ -1,0 +1,8 @@
+info:
+  messages: "Welcome to the Microservice learning PROD profile"
+  contactDetails:
+    "name": "shraboni sinha"
+    "email": "shraboni@gmail.com"
+  onCallSupport:
+    - 8697588053
+    - 9836334848
